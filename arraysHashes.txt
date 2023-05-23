@@ -1,0 +1,44 @@
+¿PARA QUÉ CASOS CREES QUE LOS ARRAYS SON MÁS ADECUADOS QUE LOS HASHES?
+
+Algunos casos en los que los arrays son más adecuadas que los hashes:
+
+Cuando necesitas una estructura de datos ordenada los arrays son una colección ordenada
+de elementos, lo que significa que cada elemento tiene una posición definida en la matriz.
+Si necesitas acceder a los elementos en un orden específico, entonces un array es más adecuado
+que un hash.
+
+Cuando trabajas con datos de un tipo único los arrays son más eficientes que los hashes en
+términos de uso de memoria cuando trabajas con datos de un solo tipo. Por ejemplo, si necesitas
+almacenar una lista de números enteros o una lista de cadenas de texto, un array es más adecuado
+que un hash.
+
+Cuando necesitas acceder a elementos por índice los arrays son más rápidos que los hashes en
+términos de acceso por índice. Si necesitas acceder a elementos en una posición específica del
+array, un array es más adecuado que un hash.
+
+Cuando el orden de los elementos es importante Si el orden de los elementos es importante, como
+en el caso de una lista de tareas pendientes o una lista de compras, un array es más adecuado
+que un hash.
+
+
+¿PARA QUÉ CASOS CREE QUE LOS HASHES SON MÁS ADECUADOS QUE LOS ARRYS?
+
+Algunos casos en los que los hashes son más adecuados que los arrays:
+
+Cuando necesitas buscar y acceder a los datos rápidamente: los hashes son muy eficientes para
+buscar y acceder a datos basados en claves. En un hash, los elementos están asociados con claves
+únicas, y puedes acceder a un valor específico de manera rápida proporcionando la clave
+correspondiente. Por lo tanto, si necesitas buscar y acceder a datos de manera eficiente, un hash
+es más adecuado que un arreglo.
+
+Cuando necesitas almacenar datos no ordenados: los hashes no tienen un orden interno, lo que
+significa que los elementos no están almacenados en una secuencia ordenada. Si el orden no es
+importante para tu aplicación, los hashes pueden ser más adecuados que los arreglos.
+
+Cuando necesitas almacenar datos de diferentes tipos: los hashes son útiles cuando necesitas
+almacenar datos de diferentes tipos. En un hash, los elementos pueden ser de cualquier tipo de
+objeto, mientras que en un arreglo, todos los elementos deben ser del mismo tipo.
+
+Cuando necesitas representar datos con una estructura más compleja: los hashes te permiten
+representar datos con una estructura más compleja, ya que puedes anidar hashes dentro de otros
+hashes y crear estructuras de datos más complejas.
